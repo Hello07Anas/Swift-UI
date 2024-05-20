@@ -6,6 +6,8 @@
 	<dict>
 		<key>NSAllowsArbitraryLoads</key>
 		<false/>
+		<key>NSLocationWhenInUseUsageDescription</key>
+		<dict/>
 	</dict>
 </dict>
 </plist>
